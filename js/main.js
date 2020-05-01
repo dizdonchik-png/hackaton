@@ -32,6 +32,6 @@
       	window.location.hash = target;
       });
 
-  	});  	
+		});  	
 
 })(jQuery);
